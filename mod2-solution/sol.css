@@ -1,16 +1,11 @@
 
 	
-	@font-face {
-		font-family: 'amaranth'; 
-		src: url(fonts/amaranth.ttf);
-		font-style: normal;
-	}
 	
 	* { 
 	margin: 0; 
 	padding: 0;
 	box-sizing: border-box;
-	font-family: amaranth, sans-serif ;
+	font-family: 'Amaranth', sans-serif ;
 	}
 	
 	
